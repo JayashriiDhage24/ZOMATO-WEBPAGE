@@ -1,3 +1,4 @@
 # ZOMATO-WEBPAGE 
-![Screenshot(833)(Screenshot(833))]
+![Screenshot](Screenshot_833.png)
+
 
